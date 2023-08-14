@@ -1,0 +1,9 @@
+{
+  "id": 10,
+  "type": "airline",
+  "name": "40-Mile Air",
+  "iata": "Q5",
+  "icao": "MLA",
+  "callsign": "MILE-AIR",
+  "country": "United States"
+}

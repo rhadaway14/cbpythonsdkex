@@ -1,0 +1,6 @@
+couchbase
+requests
+flask
+flask_restful
+flask_cors
+httpie

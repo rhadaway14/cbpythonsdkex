@@ -1,0 +1,15 @@
+{
+  "id": 1254,
+  "type": "airport",
+  "airportname": "Calais Dunkerque",
+  "city": "Calais",
+  "country": "France",
+  "faa": "CQF",
+  "icao": "LFAC",
+  "tz": "Europe/Paris",
+  "geo": {
+    "lat": 50.962097,
+    "lon": 1.954764,
+    "alt": 12.0
+  }
+}

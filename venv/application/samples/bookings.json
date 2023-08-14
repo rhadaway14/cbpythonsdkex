@@ -1,0 +1,26 @@
+{
+	"userid": "arlopacocha@cistor.bi",
+	"tenant_agent": "tenant_agent_00",
+	"upcoming_flights": [
+		{
+			"route_id": "10000",
+			"day":0,
+			"utc":"01:31:00",
+			"flight":"AF943"
+		}
+	],
+	"past_flights": [
+		{
+			"route_id": "10000",
+			"day":2,
+			"utc":"02:21:00",
+			"flight":"AF969"
+		},
+		{
+			"route_id": "10001",
+			"day":2,
+			"utc":"06:16:00",
+			"flight":"AF756"
+		}
+	]
+}

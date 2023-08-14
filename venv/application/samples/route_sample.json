@@ -1,0 +1,128 @@
+{
+  "id": 10000,
+  "type": "route",
+  "airline": "AF",
+  "airlineid": "airline_137",
+  "sourceairport": "TLV",
+  "destinationairport": "MRS",
+  "stops": 0,
+  "equipment": "320",
+  "schedule": [
+    {
+      "day": 0,
+      "utc": "10:13:00",
+      "flight": "AF198"
+    },
+    {
+      "day": 0,
+      "utc": "19:14:00",
+      "flight": "AF547"
+    },
+    {
+      "day": 0,
+      "utc": "01:31:00",
+      "flight": "AF943"
+    },
+    {
+      "day": 1,
+      "utc": "12:40:00",
+      "flight": "AF356"
+    },
+    {
+      "day": 1,
+      "utc": "08:58:00",
+      "flight": "AF480"
+    },
+    {
+      "day": 1,
+      "utc": "12:59:00",
+      "flight": "AF250"
+    },
+    {
+      "day": 1,
+      "utc": "04:45:00",
+      "flight": "AF130"
+    },
+    {
+      "day": 2,
+      "utc": "00:31:00",
+      "flight": "AF997"
+    },
+    {
+      "day": 2,
+      "utc": "19:41:00",
+      "flight": "AF223"
+    },
+    {
+      "day": 2,
+      "utc": "15:14:00",
+      "flight": "AF890"
+    },
+    {
+      "day": 2,
+      "utc": "00:30:00",
+      "flight": "AF399"
+    },
+    {
+      "day": 2,
+      "utc": "16:18:00",
+      "flight": "AF328"
+    },
+    {
+      "day": 3,
+      "utc": "23:50:00",
+      "flight": "AF074"
+    },
+    {
+      "day": 3,
+      "utc": "11:33:00",
+      "flight": "AF556"
+    },
+    {
+      "day": 4,
+      "utc": "13:23:00",
+      "flight": "AF064"
+    },
+    {
+      "day": 4,
+      "utc": "12:09:00",
+      "flight": "AF596"
+    },
+    {
+      "day": 4,
+      "utc": "08:02:00",
+      "flight": "AF818"
+    },
+    {
+      "day": 5,
+      "utc": "11:33:00",
+      "flight": "AF967"
+    },
+    {
+      "day": 5,
+      "utc": "19:42:00",
+      "flight": "AF730"
+    },
+    {
+      "day": 6,
+      "utc": "17:07:00",
+      "flight": "AF882"
+    },
+    {
+      "day": 6,
+      "utc": "17:03:00",
+      "flight": "AF485"
+    },
+    {
+      "day": 6,
+      "utc": "10:01:00",
+      "flight": "AF898"
+    },
+    {
+      "day": 6,
+      "utc": "07:00:00",
+      "flight": "AF496"
+    }
+  ],
+  "distance": 2881.617376098415
+}

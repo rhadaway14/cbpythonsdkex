@@ -1,0 +1,71 @@
+{
+  "title": "Gillingham (Kent)",
+  "name": "Medway Youth Hostel",
+  "address": "Capstone Road, ME7 3JE",
+  "directions": null,
+  "phone": "+44 870 770 5964",
+  "tollfree": null,
+  "email": null,
+  "fax": null,
+  "url": "http://www.yha.org.uk",
+  "checkin": null,
+  "checkout": null,
+  "price": null,
+  "geo": {
+    "lat": 51.35785,
+    "lon": 0.55818,
+    "accuracy": "RANGE_INTERPOLATED"
+  },
+  "type": "hotel",
+  "id": 10025,
+  "country": "United Kingdom",
+  "city": "Medway",
+  "state": null,
+  "reviews": [
+    {
+      "content": "This was our 2nd trip here and we enjoyed it as much or more than last year. Excellent location across from the French Market and just across the street from the streetcar stop. Very convenient to several small but good restaurants. Very clean and well maintained. Housekeeping and other staff are all friendly and helpful. We really enjoyed sitting on the 2nd floor terrace over the entrance and \"people-watching\" on Esplanade Ave., also talking with our fellow guests. Some furniture could use a little updating or replacement, but nothing major.",
+      "ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Location": 4.0,
+        "Rooms": 3.0
+      },
+      "author": "Ozella Sipes",
+      "date": "2013-06-22 18:33:50 +0300"
+    },
+    {
+      "content": "We found the hotel de la Monnaie through Interval and we thought we'd give it a try while we attended a conference in New Orleans. This place was a perfect location and it definitely beat staying downtown at the Hilton with the rest of the attendees. We were right on the edge of the French Quarter withing walking distance of the whole area. The location on Esplanade is more of a residential area so you are near the fun but far enough away to enjoy some quiet downtime. We loved the trolly car right across the street and we took that down to the conference center for the conference days we attended. We also took it up Canal Street and nearly delivered to the WWII museum. From there we were able to catch a ride to the Garden District - a must see if you love old architecture - beautiful old homes(mansions). We at lunch ate Joey K's there and it was excellent. We ate so many places in the French Quarter I can't remember all the names. My husband loved all the NOL foods - gumbo, jambalya and more. I'm glad we found the Louisiana Pizza Kitchen right on the other side of the U.S. Mint (across the street from Monnaie). Small little spot but excellent pizza! The day we arrived was a huge jazz festival going on across the street. However, once in our rooms, you couldn't hear any outside noise. Just the train at night blowin it's whistle! We enjoyed being so close to the French Market and within walking distance of all the sites to see. And you can't pass up the Cafe du Monde down the street - a busy happenning place with the best French dougnuts!!!Delicious! We will defintely come back and would stay here again. We were not hounded to purchase anything. My husband only received one phone call regarding timeshare and the woman was very pleasant. The staff was laid back and friendly. My only complaint was the very firm bed. Other than that, we really enjoyed our stay. Thanks Hotel de la Monnaie!",
+      "ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Business service (e.g., internet access)": 4.0,
+        "Check in / front desk": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "author": "Barton Marks",
+      "date": "2015-03-02 19:56:13 +0300"
+    }
+  ],
+  "public_likes": [
+    "Julius Tromp I",
+    "Corrine Hilll",
+    "Jaeden McKenzie",
+    "Vallie Ryan",
+    "Brian Kilback",
+    "Lilian McLaughlin",
+    "Ms. Moses Feeney",
+    "Elnora Trantow"
+  ],
+  "vacancy": true,
+  "description": "40 bed summer hostel about 3 miles from Gillingham, housed in a districtive converted Oast House in a semi-rural setting.",
+  "alias": null,
+  "pets_ok": true,
+  "free_breakfast": true,
+  "free_internet": false,
+  "free_parking": true
+}

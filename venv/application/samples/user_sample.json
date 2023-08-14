@@ -1,0 +1,32 @@
+{
+  "name": "Arlo Pacocha",
+  "addresses": [
+    {
+      "type": "work",
+      "address": "594 Dolly Inlet",
+      "city": "Subeho",
+      "country": "San Marino"
+    },
+    {
+      "type": "home",
+      "address": "588 Kozey Inlet",
+      "city": "Subeho",
+      "country": "San Marino"
+    }
+  ],
+  "driving_licence": "a8183f78-e008-5a13-bf92-e3f8b26d513f",
+  "passport": "86f73757-8d5a-5784-b422-550afcdfc8a0",
+  "preferred_email": "arlopacocha@cistor.bi",
+  "preferred_phone": "(371) 800-8148",
+  "preferred_airline": "inventory.airline.airline_4687",
+  "preferred_airport": null,
+  "credit_cards": [
+    {
+      "type": "Visa",
+      "number": "4181486482131947",
+      "expiration": "2021-11"
+    }
+  ],
+  "created": "2020-07-15",
+  "updated": "2021-02-19"
+}
